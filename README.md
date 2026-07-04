@@ -111,10 +111,7 @@ Press **Q** to close the webcam window.
 
 ## 🚀 Future Improvements
 
-* Image Resizing
-* Cropping
-* Rotation
-* Drawing Shapes
+
 * Contour Detection
 * Face Detection
 * Object Detection
